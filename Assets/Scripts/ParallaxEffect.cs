@@ -24,4 +24,5 @@ public class ParallaxEffect : MonoBehaviour
         transform.position += new Vector3(backgroundMove.x * parallaxEffect, backgroundMove.y, 0);
         cameraLastPosition = cameraPos.position;
     }
+    //comentatio Git SISISISISISISISISISISISISI
 }
